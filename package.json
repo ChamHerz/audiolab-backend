@@ -1,0 +1,8 @@
+{
+  "name": "audiolab-backend",
+  "version": "0.0.1",
+  "description": "Backend for audiolab",
+  "main": "index.js",
+  "author": "Adriel Chambi",
+  "license": "MIT"
+}
